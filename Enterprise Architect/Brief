@@ -1,0 +1,14 @@
+Project to implement refreshed informations regarding Object Oriented Programming, Java language and SOAP.
+Choosing to implement this project in Web application to be able the ease of use of it in development companies across developers just using browsers.
+
+Taking different approach regarding developing that the previous built projects (it was described used java-script, did not open source code to avoid ideas conflicts).
+
+Finding and planning for the project: ~10 hours (non-consistent work, as ideas jump to be added anytime) .
+  Planning a project require much more mentally intake than coding, but as always right planning made my next coding step a lot easier.
+  
+Approaching web application took extra time for learning to develop web app. with ease of drag-drop features in designing by combining:
+  WindowBuilder Plug-in (provided by eclipse) for windows application designing
+  with RAP tool to be able to use windowsbuilder by SWT for Web Application.
+  Time took: ...
+
+Implementation Project in Java: 
