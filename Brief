@@ -5,7 +5,19 @@ Taking different approach regarding developing that the previous built projects 
 
 Finding and planning for the project: ~10 hours (non-consistent work, as ideas jump to be added anytime) .
   Planning a project require much more mentally intake than coding, but as always right planning made my next coding step a lot easier.
-  
+  System should provide next functions:
+    1. Manage errors and bugs in development
+    2. update issue details, solve issues and update the system.
+    3. connect to database to sync.old and new bugs (SQL solution)
+    4. add authentication verification.
+    5. save reports
+  Design phase should contain:
+    1. Login/Register with description
+    2. Home for options
+    3. Profile
+    4. Admin phase: Show/Update/Add employeers/bugs/projects/departments
+    5. Employeer phase: Show/Update/Add current assigned/added bugs regarding Tester/Coder
+    
 Approaching web application took extra time for learning to develop web app. with ease of drag-drop features in designing by combining:
   WindowBuilder Plug-in (provided by eclipse) for windows application designing
   with RAP tool to be able to use windowsbuilder by SWT for Web Application.
