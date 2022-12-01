@@ -15,7 +15,7 @@ Finding and planning for the project: ~10 hours (non-consistent work, as ideas j
     1. Login/Register with description
     2. Home for options
     3. Profile
-    4. Admin phase: Show/Update/Add employeers/bugs/projects/departments
+    4. Admin (Singleton) phase: Show/Update/Add employeers/bugs/projects/departments
     5. Employeer phase: Show/Update/Add current assigned/added bugs regarding Tester/Coder
     
 Approaching web application took extra time for learning to develop web app. with ease of drag-drop features in designing by combining:
