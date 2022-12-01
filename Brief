@@ -21,6 +21,7 @@ Finding and planning for the project: ~10 hours (non-consistent work, as ideas j
 Approaching web application took extra time for learning to develop web app. with ease of drag-drop features in designing by combining:
   WindowBuilder Plug-in (provided by eclipse) for windows application designing
   with RAP tool to be able to use windowsbuilder by SWT for Web Application.
-  Time took: ...
+  Time took: 8 hours process yet unfortunately hit a wall of needing to write HTML (for code and CSS for outline),
+  so backed off to normal application to show the features that addable to a Dynamic Web Project
 
 Implementation Project in Java: 
