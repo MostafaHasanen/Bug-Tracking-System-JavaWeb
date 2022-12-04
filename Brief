@@ -1,5 +1,10 @@
-Project to implement refreshed informations regarding Object Oriented Programming, Java language and SOAP.
-Choosing to implement this project in Web application to be able the ease of use of it in development companies across developers just using browsers.
+Choosing to revise Java as data engineer as: Most of the currently available platforms for storing and processing data were written in Java and Scala.
+  An example of this is Hadoop HDFS, which is also a storage and processing platform for Big Data.
+  Opening the door of future deep learning in data engineering as to flow during the initial learning.
+  Java is not mostly in Data engineering scope, but its good language generic to be familiar with especially early-on.
+
+Choosing java as generic programmer: Implement refreshed informations regarding Object Oriented Programming, Java language and SOAP.
+  Implement this project in Web application to be able the ease of use of it in development companies across developers just using browsers.
 
 Taking different approach regarding developing that the previous built projects (it was described used java-script, did not open source code to avoid ideas conflicts).
 
@@ -24,4 +29,5 @@ Approaching web application took extra time for learning to develop web app. wit
   Time took: 8 hours process yet unfortunately hit a wall of needing to write HTML (for code and CSS for outline),
   so backed off to normal application to show the features that addable to a Dynamic Web Project
 
-Implementation Project in Java: 
+Implementation Project in Java: 10 Hour code work with guidlines for database planning and GUI messages, implementation and specifications of functions.
+  fully classified classes for the whole program, connected via Console for now, soon upgrades of database, Maybe adding GUI after finishing Data work.
